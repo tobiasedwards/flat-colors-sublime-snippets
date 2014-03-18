@@ -23,3 +23,25 @@ git clone https://github.com/tobiasedwards/flat-colors-sublime-snippets.git
 ```
 
 ## Snippets
+| Color             | Usage                  |
+|-------------------|:----------------------:|
+| Turquoise         | fc-turquoise + tab     |
+| Green Sea         | fc-green-sea + tab     |
+| Emerald           | fc-emerald + tab       |
+| Nephritis         | fc-nephritis + tab     |
+| Peter River       | fc-peter-river + tab   |
+| Belize Hole       | fc-belize-hole + tab   |
+| Amethyst          | fc-amethyst + tab      |
+| Wisteria          | fc-wisteria + tab      |
+| Wet Asphalt       | fc-wet-asphalt + tab   |
+| Midnight Blue     | fc-midnight-blue + tab |
+| Sun Flower        | fc-sun-flower + tab    |
+| Orange            | fc-orange + tab        |
+| Carrot            | fc-carrot + tab        |
+| Pumpkin           | fc-pumpkin + tab       |
+| Alizarin          | fc-alizarin + tab      |
+| Pomegranate       | fc-pomegranate + tab   |
+| Clouds            | fc-clouds + tab        |
+| Silver            | fc-silver + tab        |
+| Concrete          | fc-concrete + tab      |
+| Asbestos          | fc-asbestos + tab      |
